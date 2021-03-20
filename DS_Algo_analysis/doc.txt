@@ -1,0 +1,20 @@
+Fake News - Data Structures and Algorithms Analysis
+
+Points considered in the assignement:-
+
+* Data Structures Analysis
+
+* Algorithms Analysis
+Process followed:-
+
+Importing the Libraries
+Exploratory Data Analysis
+Data Cleaning
+Preprocessing
+
+Chossing the following Machine learning algorithms:-
+
+1. Naive Bayes (GaussianNB)
+2. Logistic Regression
+3. Random Forest Classifier
+4. Recurrent Neural Network
