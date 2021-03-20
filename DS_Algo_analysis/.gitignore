@@ -1,1 +1,4 @@
 .ipynb_*
+train*
+test*
+submit*
